@@ -1,0 +1,6 @@
+data/*
+!data/README.md
+data_synth/
+cache/
+__pycache__/
+*.pyc
